@@ -1,3 +1,4 @@
+![Uploading 1001659664.png…]()
 # AutoDEX Agent — Autonomous Event-Driven DEX on Trac Network
 
 > **Fork of [intercom-swap](https://github.com/TracSystems/intercom-swap)**
