@@ -1,3 +1,5 @@
+<img width="6000" height="5417" alt="1001659664" src="https://github.com/user-attachments/assets/c4d5efb1-a254-4ffc-bfbb-5be9ea82d7ae" />
+<img width="6000" height="5417" alt="1001659663" src="https://github.com/user-attachments/assets/caf9e7d6-bb7a-44e6-96f8-904513ea4283" />
 ![Uploading 1001659664.png…]()
 # AutoDEX Agent — Autonomous Event-Driven DEX on Trac Network
 
